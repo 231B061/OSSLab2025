@@ -1,12 +1,3 @@
-# OSSLab2025
-This repository contains lab exercises for the Open Source Software Lab - 2025
-
-## Lab Exercise 1
-Name: Arav Jain
-Enrollnment Number: 231B061
-Email: 231b061@juetguna.in
-
-<
 public class Main
 {
   public static void main(String args[])
@@ -17,4 +8,3 @@ public class Main
     else System.out.println("b is greater.")
   }
 }
->
